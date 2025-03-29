@@ -101,26 +101,28 @@ Here are some screenshots of the calculator application:
 
 ## Project Structure
 
+```
 calculator/
-├── calculator/ # Django project folder
-├── images/ # Screenshots for README.md
-│ ├── Screenshot_28.png
-│ ├── Screenshot_29.png
-├── my_calculator/ # Django app folder
-│ ├── migrations/ # Database migrations
-│ ├── templates/ # HTML templates
-│ ├── static/ # Static files (CSS, JS)
-│ ├── views.py # App views
-│ ├── urls.py # App URLs
-│ └── models.py # App models
-├── static/ # Static files folder
-├── templates/ # Project-level templates
-├── venv/ # Virtual environment (excluded in .gitignore)
-├── .gitignore # Git ignore file
-├── LICENSE # License file
-├── manage.py # Django management script
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+├── calculator/           # Django project folder
+├── images/               # Screenshots for README.md
+│   ├── Screenshot_28.png
+│   ├── Screenshot_29.png
+├── my_calculator/        # Django app folder
+│   ├── migrations/       # Database migrations
+│   ├── templates/        # HTML templates
+│   ├── static/           # Static files (CSS, JS)
+│   ├── views.py          # App views
+│   ├── urls.py           # App URLs
+│   └── models.py         # App models
+├── static/               # Static files folder
+├── templates/            # Project-level templates
+├── venv/                 # Virtual environment (excluded in .gitignore)
+├── .gitignore            # Git ignore file
+├── LICENSE               # License file
+├── manage.py             # Django management script
+├── README.md             # Project documentation
+└── requirements.txt      # Python dependencies
+```
 
 ---
 
