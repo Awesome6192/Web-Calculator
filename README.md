@@ -108,12 +108,8 @@ calculator/
 │   ├── Screenshot_28.png
 │   ├── Screenshot_29.png
 ├── my_calculator/        # Django app folder
-│   ├── migrations/       # Database migrations
-│   ├── templates/        # HTML templates
-│   ├── static/           # Static files (CSS, JS)
 │   ├── views.py          # App views
 │   ├── urls.py           # App URLs
-│   └── models.py         # App models
 ├── static/               # Static files folder
 ├── templates/            # Project-level templates
 ├── venv/                 # Virtual environment (excluded in .gitignore)
