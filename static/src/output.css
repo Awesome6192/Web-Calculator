@@ -502,6 +502,9 @@
     --tw-ease: var(--ease-in-out);
     transition-timing-function: var(--ease-in-out);
   }
+  .\[server\:main\] {
+    server: main;
+  }
 }
 @property --tw-rotate-x {
   syntax: "*";
