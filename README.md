@@ -23,11 +23,11 @@ Here are some screenshots of the calculator application:
 
 ### Calculator Interface
 
-![Example Calculation](images/Screenshot (28).png)
+![Calculator Interface](images/screenshot_28.png)
 
 ### Example Calculation
 
-![Example Calculation](images/Screenshot (29).png)
+![Example Calculation](images/screenshot_29.png)
 
 ---
 
